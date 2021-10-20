@@ -1,0 +1,40 @@
+* {
+    background-color: rgb(63, 63, 63);
+}
+
+#heading {
+    position: sticky;
+    top: 0;
+    background-color: rgb(52, 95, 52);
+    width: 99.9%;
+    padding-bottom: 30px;
+    border: 2px;
+    
+}
+
+.headingtext {
+    background-color: rgb(52, 95, 52);
+    color: aliceblue;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-left: 50px;
+    padding-right: 47%;
+    font-size: 100px;
+    text-align: top;
+}
+
+.headinglogo {
+    width: 120px;
+    background-color: rgb(52, 95, 52);
+    margin-top: 20px;
+}
+
+#icons {
+    margin: 20px;
+    align-items: center;
+}
+
+.rows {
+    width: 450px;
+    height: 260px;
+    margin: 40px;
+}
